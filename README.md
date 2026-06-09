@@ -2,8 +2,8 @@
 
 **DevOps Engineer · Seoul, Korea**
 
-애플리케이션부터 인프라까지 빌드·배포·운영을 자동화하는 데 관심이 많습니다.
-MSA 설계, IaC, Kubernetes 운영, 관측성(Observability)을 직접 구성·운영하고 있습니다.
+Passionate about automating everything from applications to infrastructure — build, deployment, and operations.
+Hands-on experience designing and operating MSA, IaC, Kubernetes, and observability.
 
 **Tech Blog** · [blog.wookjin.cloud](https://blog.wookjin.cloud)
 
