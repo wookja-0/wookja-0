@@ -5,8 +5,6 @@
 Passionate about automating everything from applications to infrastructure — build, deployment, and operations.
 Hands-on experience designing and operating MSA, IaC, Kubernetes, and observability.
 
-**Tech Blog** · [blog.wookjin.cloud](https://blog.wookjin.cloud)
-
 ---
 
 ### 🛠 Tech Stack
