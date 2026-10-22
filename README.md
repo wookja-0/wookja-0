@@ -1,11 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:326CE5,100:7B42BC&height=160&section=header&text=Welcome%20to%20my%20GitHub&fontSize=36&fontColor=ffffff&fontAlignY=32" width="100%" />
-
-## Hi, I'm Wookjin Jung
+<h2><img src="https://capsule-render.vercel.app/api?type=waving&color=0:326CE5,100:7B42BC&height=140&section=header&text=Welcome%20to%20my%20GitHub&fontSize=36&fontColor=ffffff&fontAlignY=40" width="100%" /><br/>Hi, I'm Wookjin Jung</h2>
 
 DevOps Engineer at [Onbloc](https://github.com/onbloc) and [GnoSwap](https://github.com/gnoswap-labs).
 
-I operate blockchain nodes on gno.land and Cosmos, along with the EKS clusters that run our services.
-I mostly work with Terraform, GitOps on Argo CD, and Prometheus, Loki, and Tempo for observability.
+I operate blockchain nodes on [gno.land](https://gno.land) and [Cosmos](https://cosmos.network), along with the EKS clusters that run our services. I mostly work with Terraform, GitOps on Argo CD, and Prometheus, Loki, and Tempo for observability.
 
 <img src="https://skillicons.dev/icons?i=aws,terraform,ansible,docker,kubernetes,githubactions,prometheus,grafana,go,python" />
 
