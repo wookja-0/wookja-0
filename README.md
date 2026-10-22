@@ -4,14 +4,14 @@ DevOps Engineer at [Onbloc](https://github.com/onbloc) and [GnoSwap](https://git
 
 I operate blockchain nodes on [gno.land](https://gno.land) and [Cosmos](https://cosmos.network), along with the EKS clusters that run our services. I mostly work with Terraform, GitOps on Argo CD, and Prometheus, Loki, and Tempo for observability.
 
-<img src="https://skillicons.dev/icons?i=aws,terraform,ansible,docker,kubernetes,githubactions,prometheus,grafana,go,python" />
+<img src="https://skillicons.dev/icons?i=aws,terraform,ansible,docker,kubernetes,githubactions,prometheus,grafana,go,python" width="360" />
 
 <p>
-  <img src="https://img.shields.io/badge/Helm-242938?style=for-the-badge&logo=helm&logoColor=0F8AE8" />
-  <img src="https://img.shields.io/badge/Argo%20CD-242938?style=for-the-badge&logo=argo&logoColor=EF7B4D" />
-  <img src="https://img.shields.io/badge/Loki-242938?style=for-the-badge&logo=grafana&logoColor=F46800" />
-  <img src="https://img.shields.io/badge/Tempo-242938?style=for-the-badge&logo=grafana&logoColor=F46800" />
-  <img src="https://img.shields.io/badge/OpenTelemetry-242938?style=for-the-badge&logo=opentelemetry&logoColor=F5A800" />
+  <img src="https://img.shields.io/badge/Helm-242938?style=flat-square&logo=helm&logoColor=0F8AE8" />
+  <img src="https://img.shields.io/badge/Argo%20CD-242938?style=flat-square&logo=argo&logoColor=EF7B4D" />
+  <img src="https://img.shields.io/badge/Loki-242938?style=flat-square&logo=grafana&logoColor=F46800" />
+  <img src="https://img.shields.io/badge/Tempo-242938?style=flat-square&logo=grafana&logoColor=F46800" />
+  <img src="https://img.shields.io/badge/OpenTelemetry-242938?style=flat-square&logo=opentelemetry&logoColor=F5A800" />
 </p>
 
 ## My Services
