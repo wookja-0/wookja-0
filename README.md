@@ -1,30 +1,29 @@
-# 정욱진 (Wookjin Jung)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:326CE5,100:7B42BC&height=160&section=header&text=Welcome%20to%20my%20GitHub&fontSize=36&fontColor=ffffff&fontAlignY=32" width="100%" />
 
-**DevOps Engineer · Seoul, Korea**
+## Hi, I'm Wookjin Jung
 
-Passionate about automating everything from applications to infrastructure — build, deployment, and operations.
-Hands-on experience designing and operating MSA, IaC, Kubernetes, and observability.
+DevOps Engineer at [Onbloc](https://github.com/onbloc) and [GnoSwap](https://github.com/gnoswap-labs).
 
-#### Cloud / Infra
+I operate blockchain nodes on gno.land and Cosmos, along with the EKS clusters that run our services.
+I mostly work with Terraform, GitOps on Argo CD, and Prometheus, Loki, and Tempo for observability.
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square) ![Naver Cloud Platform](https://img.shields.io/badge/Naver%20Cloud%20Platform-03C75A?style=flat-square&logo=naver&logoColor=white)
+<img src="https://skillicons.dev/icons?i=aws,terraform,ansible,docker,kubernetes,githubactions,prometheus,grafana,go,python" />
 
-#### IaC
+<p>
+  <img src="https://img.shields.io/badge/Helm-242938?style=for-the-badge&logo=helm&logoColor=0F8AE8" />
+  <img src="https://img.shields.io/badge/Argo%20CD-242938?style=for-the-badge&logo=argo&logoColor=EF7B4D" />
+  <img src="https://img.shields.io/badge/Loki-242938?style=for-the-badge&logo=grafana&logoColor=F46800" />
+  <img src="https://img.shields.io/badge/Tempo-242938?style=for-the-badge&logo=grafana&logoColor=F46800" />
+  <img src="https://img.shields.io/badge/OpenTelemetry-242938?style=for-the-badge&logo=opentelemetry&logoColor=F5A800" />
+</p>
 
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+## My Services
 
-#### Container / CI·CD
+- **[gno-wrapped](https://gnowrapped.wookjin.cloud)** — Spotify Wrapped-style recap for gno.land Mainnet Season 1 · [repo](https://github.com/wookja-0/gno-wrapped)
+- **[CronBark](https://cronbark.com)** — cron job monitoring · [Python SDK](https://github.com/wookja-0/cronbark-sdk)
+- **[whyisitdown](https://github.com/wookja-0/whyisitdown)** — CLI that checks DNS, TCP, TLS, and HTTP in one run
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ![Argo CD](https://img.shields.io/badge/Argo%20CD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
+## Contact
 
-#### Observability
-
-| Signal | Stack |
-| --- | --- |
-| Metrics | ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) |
-| Logs | ![Loki](https://img.shields.io/badge/Loki-F46800?style=flat-square&logo=grafana&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white) ![Fluentd](https://img.shields.io/badge/Fluentd-0E83C8?style=flat-square&logo=fluentd&logoColor=white) ![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana&logoColor=white) |
-| Tracing | ![Tempo](https://img.shields.io/badge/Tempo-F46800?style=flat-square&logo=grafana&logoColor=white) ![Jaeger](https://img.shields.io/badge/Jaeger-66CFE3?style=flat-square&logo=jaeger&logoColor=black) ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white) |
-
-#### Languages
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+<a href="mailto:dnrwls5445@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+<a href="https://www.linkedin.com/in/wookjinjung5445/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
