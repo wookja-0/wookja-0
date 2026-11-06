@@ -16,6 +16,7 @@ I operate blockchain nodes on [gno.land](https://gno.land) and [Cosmos](https://
 
 ## My Services
 
+- **[cometbft-mcp](https://github.com/wookja-0/cometbft-mcp)** — read-only MCP server that lets AI agents check CometBFT and Cosmos validators: signing, jail risk, stalled consensus, upgrades. Tested on 11 mainnets · [Glama](https://glama.ai/mcp/servers/wookja-0/cometbft-mcp)
 - **[gno-wrapped](https://gnowrapped.wookjin.cloud)** — Spotify Wrapped-style recap for gno.land Mainnet Season 1 · [repo](https://github.com/wookja-0/gno-wrapped)
 - **[CronBark](https://cronbark.com)** — cron job monitoring · [Python SDK](https://github.com/wookja-0/cronbark-sdk)
 - **[whyisitdown](https://github.com/wookja-0/whyisitdown)** — CLI that checks DNS, TCP, TLS, and HTTP in one run
